@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAC;EACP,WAAW,EAAE,MAAM;CAUtB;;AAXD,AAEI,UAFM,CAEN,GAAG,CAAC;EACA,SAAS,EAAE,cAAc,CAAC,eAAe,CAAC,aAAa;EACvD,aAAa,EAAE,MAAM;EACrB,UAAU,EAAE,GAAG,CAAC,IAAI,CAAC,IAAI,CAAC,mBAAqB;EAC/C,UAAU,EAAE,GAAG;CAClB;;AAPL,AAQI,UARM,AAQL,MAAM,CAAC,GAAG,CAAC;EACR,SAAS,EAAE,SAAS;CACvB",
+    "sources": [
+        "3d-perspective.scss"
+    ],
+    "names": [],
+    "file": "3d-perspective.css"
+}
