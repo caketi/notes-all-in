@@ -10,7 +10,7 @@
 const express = require('express');
 const app = express();
 
-const storesRoute = require('./api/routes/stores');
-const ordersRoute = require('./api/routes/orders');
+const storesRoute = require('../api/routes/stores');
+const ordersRoute = require('../api/routes/orders');
 
 module.exports = app;
