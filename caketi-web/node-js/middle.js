@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2020-11-24 21:17:58
- * @LastEditTime: 2020-11-24 21:20:51
+ * @LastEditTime: 2020-11-24 21:37:04
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \node-js\middle.js
@@ -14,6 +14,7 @@ const prices = (req, res, next) => {
 
 const items = (req, res, next) => {
     console.log("The orders are Fired rice, chicken and plantain chips");
+    next();
 };
 
 module.exports = { prices, items };
