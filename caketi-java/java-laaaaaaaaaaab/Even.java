@@ -1,4 +1,12 @@
- 
+/*
+ * @Author: your name
+ * @Date: 2020-12-03 20:13:03
+ * @LastEditTime: 2020-12-07 11:45:54
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \notes\caketi-java\java-laaaaaaaaaaab\Even.java
+ */
+
 
 /**
  * event class 
@@ -15,26 +23,12 @@ public class Even {
         super();
         this.robot = robot;
     }
-    
 
- 
-
-    public String[] getN() {
-        return robot.getN();
-    }
-
-    public int getm(){
-        return robot.getm();
-    }
     public int getM(){
         return robot.getM();
     }
     public int getCN(){
         return robot.getCN();
-    }
- 
-    public void setRobot(Robot robot) {
-        this.robot = robot;
     }
 }
 
